@@ -1,4 +1,4 @@
-# Optimal Power Output Over 24 Hours
+# Maximizing Cumulative Power Output of a Wind Farm Over a 24-Hour Period
 
 ## Project Overview
 
